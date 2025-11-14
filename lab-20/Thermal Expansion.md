@@ -27,15 +27,11 @@ The behavior is linear within moderate temperature ranges, and different metals 
 
 The brass tube was measured for its initial length at room temperature, then secured in the PASCO Thermal Expansion Apparatus with sensors for temperature and displacement attached. The steam generator was used to steadily heat the tube while the PASCO interface recorded changes in length and temperature (Figure 1). Data collection continued as the rod was heated to around $90° C$ and then allowed to cool. The resulting displacement versus temperature data was analyzed to determine the thermal expansion coefficient using the linear fit method (Figure 2).
 
-<figure>
-  <img src="figure_1.png" alt="Majestic creature">
-  <figcaption>Figure 1: Relation between temperature and displacement.</figcaption>
-</figure>
+![Figure 1](figure_1.png)
+Figure 1: Relation between temperature and displacement.
 
-<figure>
-  <img src="figure_2.png" alt="Figure 2: Slope analysis of the temperature/displacement graph.">
-  <figcaption>Fig. 1. My dissertation's emotional support animal.</figcaption>
-</figure>
+![Figure 2](figure_2.png)
+Figure 2: Slope analysis of the temperature/displacement graph.
 
 ## Measurements and Formula Application
 
